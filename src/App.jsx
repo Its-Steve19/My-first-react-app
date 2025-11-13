@@ -1,3 +1,4 @@
+
 import { useEffect, useState } from "react";
 
 const Card = ({ title }) => {
@@ -36,6 +37,7 @@ const App = () => {
       <Card title="Star Wars" />
       <Card title="Avatar" />
       <Card title="The Lion King" />
+      <Card title="The Demon Slayer" />
     </div>
   );
 };
