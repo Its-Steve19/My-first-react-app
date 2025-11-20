@@ -38,6 +38,7 @@ const App = () => {
       <Card title="Avatar" />
       <Card title="The Lion King" />
       <Card title="The Demon Slayer" />
+       <Card title="The Demon Hunter" />
     </div>
   );
 };
