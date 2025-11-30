@@ -34,11 +34,12 @@ const Card = ({ title }) => {
 const App = () => {
   return (
     <div className="card-container">
-      <Card title="Star Wars" />
-      <Card title="Avatar" />
-      <Card title="The Lion King" />
+      <Card title="Classroom of elite" />
+      <Card title="Baki Hanma " />
+      <Card title="Hunter x Hunter" />
       <Card title="The Demon Slayer" />
       <Card title="The Demon Hunter" />
+       <Card title="Yuyu Hausho" />
     </div>
   );
 };
